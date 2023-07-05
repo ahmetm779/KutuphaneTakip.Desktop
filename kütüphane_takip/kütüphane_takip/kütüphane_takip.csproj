@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53F673E5-801D-449D-BD47-675C4A364B31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>kütüphane_takip</RootNamespace>
+    <AssemblyName>kütüphane_takip</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="emanet_kayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="emanet_kayit.Designer.cs">
+      <DependentUpon>emanet_kayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gecikenkitap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gecikenkitap.Designer.cs">
+      <DependentUpon>gecikenkitap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitap_bilgi_guncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitap_bilgi_guncelleme.Designer.cs">
+      <DependentUpon>kitap_bilgi_guncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitap_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitap_ekle.Designer.cs">
+      <DependentUpon>kitap_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kitap_teslim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kitap_teslim.Designer.cs">
+      <DependentUpon>kitap_teslim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="okuyucu_bilgi_guncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="okuyucu_bilgi_guncelleme.Designer.cs">
+      <DependentUpon>okuyucu_bilgi_guncelleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="okuyucu_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="okuyucu_ekle.Designer.cs">
+      <DependentUpon>okuyucu_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="emanet_kayit.resx">
+      <DependentUpon>emanet_kayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gecikenkitap.resx">
+      <DependentUpon>gecikenkitap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitap_bilgi_guncelleme.resx">
+      <DependentUpon>kitap_bilgi_guncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitap_ekle.resx">
+      <DependentUpon>kitap_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kitap_teslim.resx">
+      <DependentUpon>kitap_teslim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="okuyucu_bilgi_guncelleme.resx">
+      <DependentUpon>okuyucu_bilgi_guncelleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="okuyucu_ekle.resx">
+      <DependentUpon>okuyucu_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitap %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kütüphane-Takip-Programı.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comic Icons 3 button_cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cubist pen_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Comic Icons 3 button_cancel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green_ville_1 documents_white_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clipper System_1 Go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emanet liste.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geciken.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\okuyucu listele.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-books.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

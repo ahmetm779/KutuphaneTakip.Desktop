@@ -1,0 +1,32 @@
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\bin\Debug\kütüphane_takip.exe.config
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\bin\Debug\kütüphane_takip.exe
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\bin\Debug\kütüphane_takip.pdb
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.anaform.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.Properties.Resources.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.csproj.GenerateResource.Cache
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.exe
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.pdb
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.emanet_kayit.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.kitap_ekle.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.kitap_teslim.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.okuyucu_ekle.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.kitap_bilgi_guncelleme.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.okuyucu_bilgi_guncelleme.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.gecikenkitap.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\bin\Debug\kütüphane_takip.exe.config
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.exe
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.pdb
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\bin\Debug\kütüphane_takip.exe
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\bin\Debug\kütüphane_takip.pdb
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.emanet_kayit.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.anaform.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.gecikenkitap.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.kitap_bilgi_guncelleme.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.kitap_ekle.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.kitap_teslim.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.okuyucu_bilgi_guncelleme.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.okuyucu_ekle.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.Properties.Resources.resources
+C:\Users\Ahmet Mahmut\Desktop\kütüphane\Kütüphane Takip Proje Dosyaları\kütüphane_takip\kütüphane_takip\obj\Debug\kütüphane_takip.csproj.GenerateResource.Cache
